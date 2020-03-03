@@ -1,0 +1,43 @@
+<svg id="madewithlovebadge" data-name="madewithlovebadge" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 245.7 35" height="20px">
+    <defs>
+        <style>
+            .cls-1 {
+              fill: #{{ accent }};
+            }
+
+            .cls-2 {
+              fill: #{{ background }};
+            }
+
+            .cls-3 {
+              fill: #{{ foreground }};
+            }
+
+            .cls-4 {
+              fill: #{{ foreground }};
+            }
+            .cls-4 {
+                isolation: isolate;
+                font-size: 16px;
+                font-family: Avenir-Light, Avenir, sans-serif;
+            }
+        </style>
+    </defs>
+    <title>made with love in HANOI</title>
+
+    <path class="cls-1" d="M112.5,0h39.6V35H112.5Z" />
+    <path class="cls-2" d="M5,0H112.5V35H5a5,5,0,0,1-5-5V5A5,5,0,0,1,5,0Z" />
+    <rect class="cls-1" d="M112.5,0h39.6V35H112.5Z" />
+    <path class="cls-3" d="M138,12.9a3.65,3.65,0,0,0-4.8,0l-.9.8-.9-.8a3.65,3.65,0,0,0-4.8,0,3.21,3.21,0,0,0-.3,4.6l.3.3,5.7,5.2,5.7-5.2a3.32,3.32,0,0,0,.3-4.7c-.1,0-.2-.1-.3-.2Z" />
+    <path class="cls-2" d="
+        M152.1,0
+        h87
+        a5,5,0,0,1,5,5
+        V30a5,5,0,0,1-5,5
+        H152.1
+        Z
+    " />
+
+    <text class="cls-4" transform="translate(10.77 23)">MADE WITH</text>
+    <text class="cls-4" transform="translate(160.95 23)">IN HANOI</text>
+</svg>
